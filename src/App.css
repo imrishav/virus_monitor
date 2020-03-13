@@ -1,3 +1,17 @@
+.title {
+  background-color: yellowgreen;
+  /* clip-path: polygon(0 13%, 107% 64%, 85% 88%, -113% 123%); */
+  color: darkred;
+  font-weight: 800;
+}
+
+.footer {
+  text-align: center;
+  background-color: firebrick;
+  padding: 10px;
+  color: aliceblue;
+}
+
 .App {
   text-align: center;
 }
